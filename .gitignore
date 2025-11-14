@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+
+# Env
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
+
+# System
+Thumbs.db
+
+# Temporary
+*.tmp
